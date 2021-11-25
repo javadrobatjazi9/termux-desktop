@@ -21,7 +21,7 @@ Lets start from the beginning... <br />
 Termux is an *Android terminal emulator* and **Linux environment** app that works directly with **no rooting** or setup required. A minimal base system is installed automatically - additional packages are available using the *PKG/APT package manager*. More [Here](https://termux.com/)... <br />
 
 ### How To install termux?
-
+<a href="https://moz.com/">MOZ</a>
 You can install termux form google play store or from f-droid. <br />
 
 - Get it on [Google Play](https://play.google.com/store/apps/details?id=com.termux)
